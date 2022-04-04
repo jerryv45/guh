@@ -1,4 +1,4 @@
-# Getting Started with Guh App
+# Getting Started with Guh Guh App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
